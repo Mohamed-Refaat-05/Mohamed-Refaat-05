@@ -1,16 +1,31 @@
-## Hi there 👋
+Hi there 👋, I'm Mohamed Refaat
+Aspiring Data Scientist | CS Student at Cairo University
+MohamedRefaatMohamed
 
-<!--
-**Mohamed-Refaat-05/Mohamed-Refaat-05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Sophomore at Faculty of Computers & Artificial Intelligence, Cairo University
+🔍 Interested in Machine Learning, Data Analysis, and Software Development
+🌱 Currently learning advanced ML techniques and software engineering concepts
+💡 Passionate about applying data science to solve real-world problems
+📫 Reach me at: marwantamer004@gmail.com
+🔹 Concepts & Areas of Interest
+🚀 Object-Oriented Programming (OOP) & Software Design
+📌 Data Structures & Algorithms
+🧪 Machine Learning & Model Evaluation
+📊 Data Preprocessing & Feature Engineering
+📉 Dimensionality Reduction & Clustering
+🧠 Deep Learning & Neural Networks
 
-Here are some ideas to get you started:
+🔧 Languages and Tools
+Python C++ Java SQL Django HTML CSS JavaScript Git GitHub SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Education
+Cairo University
+B.Sc. in Computer and Artificial Intelligence (2023 – 2027)
+🧠 Skills
+Programming Languages: Python, C++, Java, SQL, HTML/CSS, JavaScript
+Concepts: OOP, Data Structures, ML Algorithms, Design Patterns, SOLID Principles
+Libraries: scikit-learn, pandas, NumPy, matplotlib, seaborn
+Tools: Jupyter Notebook, Visual Studio, Anaconda, MS SQL Server
+🌐 Connect with Me
+📧 Email: mrefaat8853@gmail.com
+💼 www.linkedin.com/in/mohamed-refaat-ba5111307
